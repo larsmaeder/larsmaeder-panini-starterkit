@@ -5,7 +5,7 @@ Based on Foundation 6 Framework: [foundation-6.4.2-custom](lib/foundation-6.4.2-
 ## Usage
 Download repo with Git:
 
-`git clone https://github.com/larsmaeder/larsmaeder-panini-starterkit.git`
+`git clone https://github.com/larsmaeder/larsmaeder-panini-starterkit.git projectname`
 
 Then open the folder in your command line, and install the needed dependencies:
 

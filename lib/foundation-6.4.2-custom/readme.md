@@ -6,7 +6,7 @@
 
 # Framework
 
-Library: Foundation 6.4.2 [[1]](/lib/foundation-6.4.2-custom)
+Library: Foundation 6.4.2 (Custom)
 
 See [here](https://foundation.zurb.com/sites/docs/) for a full documentation of the «Foundation»-Framework.
 

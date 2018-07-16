@@ -1,4 +1,4 @@
-#Grid
+# Grid
 
 - Width: max. `1440 px (90 rem)`
 - Gutter: `30px (1.875 rem)`
